@@ -1,0 +1,11 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
