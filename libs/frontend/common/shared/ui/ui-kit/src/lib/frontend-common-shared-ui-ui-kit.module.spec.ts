@@ -1,4 +1,5 @@
 import { async, TestBed } from '@angular/core/testing';
+
 import { FrontendCommonSharedUiUiKitModule } from './frontend-common-shared-ui-ui-kit.module';
 
 describe('FrontendCommonSharedUiUiKitModule', () => {
