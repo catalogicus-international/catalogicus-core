@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@caralogicus/frontend-common-shared-ui-ui-kit": [
+        "libs/frontend/common/shared/ui/ui-kit/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
